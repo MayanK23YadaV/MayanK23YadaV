@@ -1,3 +1,4 @@
+![MasterHead](https://i.pinimg.com/originals/f3/65/ab/f365ab2ff03dec54688b7a6aee0ea34c.jpg)
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm MAYANK YADAV</h1>
 <h3 align="center">A passionate Full stack developer and cybersecurity professional from India</h3>
@@ -11,7 +12,8 @@
 
 <p align="left">
 </p>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://tenor.com/bHP5J.gif)">
+
+
 
 
 
